@@ -2,7 +2,7 @@ Hi there 👋
 
 An engineer who always starting new side project  
 
-Usually write Python and Golang at work  
+Usually write Python and Golang
 An amateur cybersecurity player, focus on vulnerability and exploit.  
 feel happy to be a maker, enjoy in making things works!  
 
